@@ -1,0 +1,18 @@
+{
+    "name": "demya/architect-develop",
+    "autoload": {
+        "psr-4": {
+            "Demya\\ArchitectDevelop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "stokato",
+            "email": "demyanovpaul@yandex.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10.4",
+        "symfony/web-server-bundle": "^4.4"
+    }
+}
