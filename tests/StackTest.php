@@ -7,7 +7,7 @@ class StackTest extends TestCase
 {
     public function testPushAndPop()
     {
-        $point = new Point2(12,12);
+        $point = new Point2(12, 12);
 
         $this->assertSame(12, $point->getX());
     }
