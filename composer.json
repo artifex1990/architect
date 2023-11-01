@@ -2,7 +2,7 @@
     "name": "demya/architect-develop",
     "autoload": {
         "psr-4": {
-            "Demya\\ArchitectDevelop\\": "src/"
+            "Demya\\ArchitectDevelop\\": "src/Odno/"
         }
     },
     "authors": [
