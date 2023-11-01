@@ -1,6 +1,6 @@
 <?php
 
-namespace Geo;
+namespace Odno;
 
 class Point2 implements IPoint
 {

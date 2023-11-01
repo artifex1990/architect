@@ -1,9 +1,9 @@
 <?php
 
-require __DIR__ . '/../vendor/autoload.php'; 
+require __DIR__ . '/../vendor/autoload.php';
 
-use Person\Enemy;
-use Geo\Point2;
+use Odno\Point2;
+use Odno\Enemy;
 
 //var_dump(new Point2(10, 15));
 var_dump(new Point2(10, 15));

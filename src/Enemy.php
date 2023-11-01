@@ -1,9 +1,6 @@
 <?php
 
-namespace Person;
-
-use Geo\IMovable;
-use Geo\IPoint;
+namespace Odno;
 
 class Enemy implements IMovable
 {
