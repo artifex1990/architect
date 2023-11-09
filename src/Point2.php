@@ -1,7 +1,5 @@
 <?php
 
-namespace Odno;
-
 class Point2 implements IPoint
 {
     private float $X;

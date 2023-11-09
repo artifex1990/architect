@@ -1,7 +1,6 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Odno\Point2;
 
 class StackTest extends TestCase
 {

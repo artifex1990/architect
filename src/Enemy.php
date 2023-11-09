@@ -1,8 +1,6 @@
 <?php
 
-namespace Odno;
-
-class Enemy implements IMovable
+class Enemy implements IMovable, IEnemy
 {
     private IPoint $point;
 
