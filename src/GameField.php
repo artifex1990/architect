@@ -2,10 +2,10 @@
 
 class GameField
 {
-    private IPoint $player;
+    private array $players;
 
-    public function __contruct(IPoint $player)
+    public function __contruct(array $players)
     {
-
+        $this->players = $players;
     }
 }
