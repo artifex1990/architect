@@ -25,4 +25,14 @@ class Point2 implements IPoint
     {
         return $this->Y;
     }
+
+    public function setX(float $X)
+    {
+        $this->X = $X;
+    }
+
+    public function setY(float $Y)
+    {
+        $this->Y = $Y;
+    }
 }

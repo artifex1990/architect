@@ -2,5 +2,5 @@
 
 interface IMovable
 {
-    function move(IPoint $point): void;
+    function move(IPoint $point);
 }

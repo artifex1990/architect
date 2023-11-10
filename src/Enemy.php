@@ -9,7 +9,7 @@ class Enemy implements IMovable, IEnemy
         $this->point = $point;
     }
 
-    public function move(IPoint $point): void
+    public function move(IPoint $point)
     {
         $this->point = $point;
     }
